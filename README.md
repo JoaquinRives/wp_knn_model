@@ -16,8 +16,6 @@ we need a prediction on the 𝑥𝑤𝑝 level, in order to evaluate the route�
 
 The predictions are made using the k Nearest Neighbors Algorithm with Euclidean distance.
 
-Azure Pipelines is used for continuous integration and development of this project.
-
 # To install from github repo:
 >>> pip install git+git://github.com/JoaquinRives/wp_knn_model
 
