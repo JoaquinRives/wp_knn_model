@@ -1,6 +1,6 @@
-=> Water permeability prediction model
+# Water permeability prediction model
 
-- Description:
+### Description:
 k nearest neighbor regression model for prediction of the water permeability
 level of forest soil. The model is intended to be use in the forest industry to
 guide routing decisions in harvesting operations.
@@ -16,11 +16,11 @@ we need a prediction on the 𝑥𝑤𝑝 level, in order to evaluate the route�
 
 The predictions are made using the k Nearest Neighbors Algorithm with Euclidean distance.
 
-# To install from github repo:
->>> pip install git+git://github.com/JoaquinRives/wp_knn_model
+### To install from github repo:
+> pip install git+git://github.com/JoaquinRives/wp_knn_model
 
-# To install locally:
->>> pip install -e /wp_forest_project_public/packages/wp_knn_model
+### To install locally:
+> pip install -e /wp_forest_project_public/packages/wp_knn_model
 
 
 
